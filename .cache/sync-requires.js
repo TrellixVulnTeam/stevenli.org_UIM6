@@ -5,7 +5,7 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": (preferDefault(require("/Users/stevenli/Desktop/stevenli.org/.cache/dev-404-page.js"))),
+  "component---cache-caches-gatsby-plugin-offline-app-shell-js": (preferDefault(require("/Users/stevenli/Desktop/stevenli.org/.cache/caches/gatsby-plugin-offline/app-shell.js"))),
   "component---src-templates-categories-list-template-js": (preferDefault(require("/Users/stevenli/Desktop/stevenli.org/src/templates/categories-list-template.js"))),
   "component---src-templates-category-template-js": (preferDefault(require("/Users/stevenli/Desktop/stevenli.org/src/templates/category-template.js"))),
   "component---src-templates-index-template-js": (preferDefault(require("/Users/stevenli/Desktop/stevenli.org/src/templates/index-template.js"))),
